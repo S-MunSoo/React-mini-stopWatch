@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "PT Mono", monospace;
+  background-color: aliceblue;
+}
+#root {
+  height: 100vh;
+}
+
+button::before {
+  content: " ";
+  position: absolute;
+  inset: 3px;
+  z-index: 1;
+  border: 2px white solid;
+  border-radius: 100%;
+}
