@@ -1,9 +1,9 @@
 ## ⏰ React 미니 사전과제 학습 #2 스톱워치
 
 ### 타이머 custom hook 사용
-
+```
 npm i use-timer
-
+```
 #### custom hook state
 
 - centisecond : 현재 스톱워치의 시간 (단위: centisecond)
