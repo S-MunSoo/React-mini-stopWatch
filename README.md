@@ -1,5 +1,7 @@
 ## ⏰ React 미니 사전과제 학습 #2 스톱워치
 
+https://user-images.githubusercontent.com/102017296/182782438-4561df49-ed2e-4a7e-9dda-70d032855628.mov
+
 ### 타이머 custom hook 사용
 ```
 npm i use-timer
